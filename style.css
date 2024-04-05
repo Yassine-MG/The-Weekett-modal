@@ -5,16 +5,14 @@
 /* The Modal (background) */
 .modal-iceep {
     position: fixed;
-    bottom: 0;
-    right: 0;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
     z-index: 100;
-    top: 20%;
-    width: 100vw;
-    height: 102vh;
-    background-color: #000;
-    background-color: #0006;
-    /* display:none; */
-     backdrop-filter: blur(8px); /* Apply blur effect to background behind the modal */
+    width: 100vw; /* You might want to adjust this if the modal shouldn't be full width */
+    height: 100vh; /* This makes the modal take up the full height of the viewport */
+    background-color: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(8px); /* Apply blur effect to background behind the modal */
     -webkit-backdrop-filter: blur(8px);
 }
 
