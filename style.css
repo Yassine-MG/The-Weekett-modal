@@ -1,14 +1,14 @@
 *{
     font-family: sans-serif;
-    box-shadow: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 /* The Modal (background) */
 .modal-iceep {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    z-index: 100;
-    top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
     width: 100vw;
     height: 102vh;
     background-color: #000;
