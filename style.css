@@ -19,7 +19,7 @@
     background-color: #fefefe;
     margin: 15% auto; /* 15% from the top and centered */
     position: relative;
-    max-height: 80vh;
+    max-height: 75vh;
     border-radius:20px;
     overflow-y: auto;
 }
