@@ -84,7 +84,6 @@
 .modal-header{
   position: sticky;
   top: -1px;
-  padding: 10px;
   background-color: #fefefe; 
   z-index: 10;
   border-radius: 20px 20px 0 0;
@@ -138,6 +137,7 @@
     color: #aaa;
     float: right;
     font-size: 28px;
+    margin-top:20px
     font-weight: bold;
     margin-right: 5px;
 }
