@@ -3,7 +3,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    color:black;
 }
 /* The Modal (background) */
 .modal-iceep {
@@ -95,6 +94,7 @@
   font-size :16px;
   text-align:center;
   margin:0;
+  color:black;
   line-height:0;
 }
 .title-trade{
