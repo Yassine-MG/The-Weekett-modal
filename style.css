@@ -87,7 +87,7 @@
   background-color: #fefefe; 
   z-index: 10;
   border-radius: 20px 20px 0 0;
-  padding: 15px 10px;
+  padding:10px;
 }
 
 .modal-header > h2{
