@@ -9,6 +9,7 @@ p, h1, h2, h3, h4, h5, h6, span, button{
 
 h1, h2, h3, h4, h5, h6{
     font-weight:500;
+    
 }
 /* The Modal (background) */
 .modal-iceep {
@@ -119,6 +120,7 @@ h1, h2, h3, h4, h5, h6{
   font-weight:500;
   line-height: 1.5 ;
   text-align:justify;
+  color: #2e2a39bf;
 }
 .title-description{
   background-color:#f1f7fa;
