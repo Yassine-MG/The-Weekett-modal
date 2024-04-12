@@ -1,8 +1,10 @@
 *{
-    font-family: sans-serif !important;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+p, h1, h2, h3, h4, h5, h6, span, button{
+    font-family: sans-serif;
 }
 /* The Modal (background) */
 .modal-iceep {
