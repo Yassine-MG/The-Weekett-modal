@@ -136,9 +136,11 @@ h1, h2, h3, h4, h5, h6{
   width:40px;
   margin-left:10px;
 }
-.container-img > p{
-    color:black;
-  margin:0;
+.container-img > p {
+    color: black;
+    margin: 0;
+    font-size: 17px;
+    font-weight: 300;
 }
 .how-it-works > h1{
   text-align:center;
