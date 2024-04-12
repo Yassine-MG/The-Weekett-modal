@@ -100,8 +100,8 @@
 .modal-header > h2{
   font-size :16px;
   text-align:center;
-  font-weight:500;
-  font-family: "Roboto", sans-serif;
+  font-weight:700;
+  font-family: "Nunito Sans", sans-serif;
   color:black;
   margin:0;
   line-height:0;
@@ -112,15 +112,16 @@
 }
 .title-trade > h1{
     font-size: 29px;
-    font-weight:500;
-    font-family: "Roboto", sans-serif;
+    font-weight:700;
+    font-family: "Nunito Sans", sans-serif;
     color: black;
     margin: 0 0 15px;
     text-align: center;
     line-height: 37px;
 }
 .title-trade > p{
-  font-weight:500;
+  font-weight:700;
+  font-family: "Nunito Sans", sans-serif;
   font-size: 17px;
   line-height: 1.5 ;
   text-align:justify;
@@ -150,8 +151,8 @@
 .how-it-works > h1{
   text-align:center;
   font-size : 25px;
-  font-weight:500;
-  font-family: "Roboto", sans-serif;
+  font-weight:700;
+  font-family: "Nunito Sans", sans-serif;
   margin:0;
   color:black;
 }
@@ -206,8 +207,8 @@
 }
 .steps-take-container > h3{
   font-size:18px;
-  font-weight:500;
-  font-family: "Roboto", sans-serif;
+  font-weight:700;
+  font-family: "Nunito Sans", sans-serif;
   margin:0;
   color:black;
   line-height: 29px;
@@ -226,6 +227,7 @@
 .steps-take-container > p{
   margin: 0;
   line-height: 1.5 ;
+  font-family: "Nunito Sans", sans-serif;
   font-size:13px;
   color: #857c7d;
   font-weight:700;
