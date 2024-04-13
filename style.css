@@ -3,6 +3,105 @@
     margin: 0;
     padding: 0;
 }
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-Italic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-BoldItalic.otf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-Black.otf') format('opentype');
+  font-weight: 900; /* Use a weight that represents 'Black' */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-BlackItalic.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-ExtraBold.otf') format('opentype');
+  font-weight: 800; /* Use a weight that represents 'ExtraBold' */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-ExtraBoldItalic.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-Light.otf') format('opentype');
+  font-weight: 300; /* Use a weight that represents 'Light' */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-LightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-Medium.otf') format('opentype');
+  font-weight: 500; /* Use a weight that represents 'Medium' */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-MediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-Thin.otf') format('opentype');
+  font-weight: 100; /* Use a weight that represents 'Thin' */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fractul';
+  src: url('./Fonts/Fractul-ThinItalic.otf') format('opentype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+
 /* p, h1, h2, h3, h4, h5, h6, span, button{
     font-family: "Roboto", sans-serif !important;
 } */
@@ -101,7 +200,7 @@
   font-size :16px;
   text-align:center;
   font-weight:500;
-  font-family: "Nunito Sans", sans-serif !important;
+  font-family: 'Fractul', sans-serif;
   color:black;
   margin:0;
   line-height:0;
@@ -113,14 +212,14 @@
 .title-trade > h1{
     font-size: 29px;
     font-weight:700;
-    font-family: "Nunito Sans", sans-serif !important;
+    font-family: 'Fractul', sans-serif;
     color: black;
     margin: 0 0 15px;
     text-align: center;
     line-height: 37px;
 }
 .title-trade > p{
-  font-family: "Nunito Sans", sans-serif !important;
+  font-family: 'Fractul', sans-serif;
   font-size: 17px;
   line-height: 1.5 ;
   text-align:justify;
@@ -142,7 +241,7 @@
 }
 .container-img > p {
     color: black;
-   font-family: "Nunito Sans", sans-serif !important;
+    font-family: 'Fractul', sans-serif;
     margin: 0;
     font-size: 17px;
     font-weight: 300;
@@ -151,7 +250,7 @@
   text-align:center;
   font-size : 25px;
   font-weight:700;
-  font-family: "Nunito Sans", sans-serif !important;
+  font-family: 'Fractul', sans-serif;
   margin:0;
   color:black;
 }
@@ -207,7 +306,7 @@
 .steps-take-container > h3{
   font-size:18px;
   font-weight:700;
-  font-family: "Nunito Sans", sans-serif !important;
+  font-family: 'Fractul', sans-serif;
   margin:0;
   color:black;
   line-height: 29px;
@@ -226,7 +325,7 @@
 .steps-take-container > p{
   margin: 0;
   line-height: 1.5 ;
-  font-family: "Nunito Sans", sans-serif !important;
+  font-family: 'Fractul', sans-serif;
   font-size:13px;
   color: #857c7d;
   font-weight:700;
