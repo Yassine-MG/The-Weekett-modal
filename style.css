@@ -123,8 +123,9 @@
 .modal-content {
     max-width:92%;
     background-color: #fefefe;
-    margin: 150px auto; /* 15% from the top and centered */
+    margin: 15% auto; /* 15% from the top and centered */
     position: relative;
+    margin-top:150px;
     max-height: 80vh;
     border-radius:20px;
     overflow-y: auto;
